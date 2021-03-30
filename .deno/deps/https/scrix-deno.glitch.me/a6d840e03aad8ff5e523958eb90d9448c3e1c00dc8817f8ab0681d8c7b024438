@@ -1,8 +1,0 @@
-export function factory(clss) {
-  return (...args) => new clss(...args);
-}
-
-const klassMixin = (SuperClass = Object) => class Klass extends SuperClass {};
-// const Klass = klassMixin();
-class SubKlass extends klassMixin() {}
-class CustomArrayKlass extends klassMixin(Array) {}
