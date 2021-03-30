@@ -12,7 +12,7 @@ function getDate() {
 }
 const bootTime = getDate();
 await db.set("boot", bootTime);
-await Deno.writeTextFile("boot.txt", bootTime);
+// await Deno.writeTextFile("boot.txt", bootTime);
 
 // setInterval(() => {
 //   db.set('last', getDate())
@@ -85,7 +85,7 @@ for await (const request of server) {
   const usingCurl = request.headers.has("User-Agent") &&
     request.headers.get("User-Agent").includes("curl");
   // const html = welcomeHTML();
-  await request.respond({
+  request.respond({
     headers: new Headers({
       "Content-Type": usingCurl ? "text/plain" : "text/html",
       "Cache-Control": "no-cache, no-store, must-revalidate",
