@@ -12,6 +12,7 @@ function getDate() {
 }
 const bootTime = getDate();
 await db.set("boot", bootTime);
+
 // await Deno.writeTextFile("boot.txt", bootTime);
 
 // setInterval(() => {
