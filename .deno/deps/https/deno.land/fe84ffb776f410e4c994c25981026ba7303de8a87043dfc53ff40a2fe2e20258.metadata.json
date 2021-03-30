@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "access-control-max-age": "86400",
+    "etag": "\"39a6e3eb5ed9b03e29f162122aa1a562\"",
+    "via": "2 fly.io",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "Fly/c2ead88 (2021-03-19)",
+    "date": "Sat, 20 Mar 2021 00:04:03 GMT",
+    "last-modified": "Wed, 20 Jan 2021 05:26:03 GMT",
+    "server-timing": "total;dur=153",
+    "fly-request-id": "01F16F4AQVMC4N5567G6P65XK5",
+    "x-deno-cache": "MISS"
+  },
+  "url": "https://deno.land/std@0.84.0/io/bufio.ts"
+}

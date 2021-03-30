@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"4bde37accf363a2bfad89903105f458a\"",
+    "server": "Fly/c2ead88 (2021-03-19)",
+    "server-timing": "total;dur=49",
+    "via": "2 fly.io",
+    "fly-request-id": "01F16F4AVBFFHHT1GGVMVNWHPZ",
+    "access-control-max-age": "86400",
+    "date": "Sat, 20 Mar 2021 00:04:03 GMT",
+    "x-deno-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "last-modified": "Wed, 20 Jan 2021 05:26:03 GMT",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/std@0.84.0/async/pool.ts"
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "date": "Sat, 20 Mar 2021 14:40:41 GMT",
+    "cache-control": "no-cache",
+    "last-modified": "Sat, 20 Mar 2021 04:29:48 GMT",
+    "x-amz-id-2": "ynBsS83FnsxD7GnwD1g1LMe1Zsir5FJ9rMUord116KDCRkYEn7GI2/5rjqE2XGogbwPj5ofxlJw=",
+    "accept-ranges": "bytes",
+    "x-amz-request-id": "DC8E9N19VRN895RD",
+    "content-length": "2448",
+    "x-amz-version-id": "vrtSmYelLENgP7HgJ0uSYcDpTeXvpjgu",
+    "etag": "\"5886280e46dc4a42a3645016fc9162f6\"",
+    "content-type": "application/javascript; charset=utf-8",
+    "server": "AmazonS3"
+  },
+  "url": "https://scrix-deno.glitch.me/public/js/modules/time/mod.js"
+}

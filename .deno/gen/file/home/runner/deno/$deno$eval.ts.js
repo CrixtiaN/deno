@@ -1,0 +1,3 @@
+"use strict";
+const a = 'a';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZmlsZTovLy9ob21lL3J1bm5lci9kZW5vLyRkZW5vJGV2YWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFtQixNQUFNLENBQUMsR0FBSyxHQUFHLENBQUEifQ==
