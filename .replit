@@ -1,5 +1,5 @@
 #run = "export PATH=$HOME/$REPL_SLUG/.local/usr/bin:$PATH && deno --version && deno eval -p \"Deno.env.get('CRIX')\""
 #run = "env CRIX=TIAN DENO_DIR=$HOME/$REPL_SLUG/.deno PATH=$HOME/$REPL_SLUG/.local/usr/bin:$PATH deno run --reload=https://scrix-deno.glitch.mee/ --allow-all --unstable server_deno.js"
-run = "export CRIX=TIAN && export DENO_DIR=$HOME/$REPL_SLUG/.deno && export PATH=$HOME/$REPL_SLUG/.local/usr/bin:$PATH && deno run --reload=https://scrix-deno.glitch.mee/ --allow-all --unstable --no-check server_deno.js"
+run = "export CRIX=TIAN && export DENO_DIR=$HOME/$REPL_SLUG/.deno && export PATH=$HOME/$REPL_SLUG/.local/usr/bin:$PATH && deno run --reload=https://scrix-deno.glitch.mee/ --allow-all --unstable server_deno.js"
 #run = "deno run --lock=lock.json --lock-write --allow-all server_deno.js"
 onBoot = "export ONBOOT=YEY && echo Welcome 🐱‍🐉"
